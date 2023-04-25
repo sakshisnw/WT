@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemDetails>
+    <Item>
+        <ItemName>Fan</ItemName>
+        <ItemPrice>7000</ItemPrice>
+        <Quantity>3</Quantity>
+    </Item>
+    <Item>
+        <ItemName>AC</ItemName>
+        <ItemPrice>70000</ItemPrice>
+        <Quantity>1</Quantity>
+    </Item>
+    <Item>
+        <ItemName>Fridge</ItemName>
+        <ItemPrice>25000</ItemPrice>
+        <Quantity>5</Quantity>
+    </Item>
+    <Item>
+        <ItemName>Induction</ItemName>
+        <ItemPrice>2000</ItemPrice>
+        <Quantity>9</Quantity>
+    </Item>
+    <Item>
+        <ItemName>Iron</ItemName>
+        <ItemPrice>1500</ItemPrice>
+        <Quantity>7</Quantity>
+    </Item>
+</ItemDetails>
